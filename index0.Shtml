@@ -266,7 +266,7 @@
       
       $.ajax({
         dataType: 'JSON',
-        url: 'https://submit-form.com/VhfNs1Ys',
+        url: 'https://submit-form.com/sd0aT1X2',
         type: 'POST',
         data:{
           email:email,
